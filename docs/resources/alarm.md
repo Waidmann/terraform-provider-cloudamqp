@@ -138,7 +138,7 @@ Optional argument for all alarms: `tags, queue_regex, vhost_regex`
 | Queue | queue | &#10004;  | &#10004; | time_threshold, value_threshold, queue_regex, vhost_regex, message_type |
 | Connection | connection | &#10004; | &#10004; | time_threshold, value_threshold |
 | Connection flow | flow | &#10004; | &#10004; | time_threshold, value_threshold |
-| Consumer | consumer | &#10004; | &#10004; | time_threshold, value_threshold, queue, vhost |
+| Consumer | consumer | &#10004; | &#10004; | time_threshold, value_threshold |
 | Netsplit | netsplit | - | &#10004; | time_threshold |
 | Server unreachable | server_unreachable  | - | &#10004;  | time_threshold |
 | Notice | notice | &#10004; | &#10004; | |
